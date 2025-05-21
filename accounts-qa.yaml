@@ -5,7 +5,7 @@ accounts:
   message: "QA Environment"
   contactInfo:
     name: "Emanzi Katunzi - QA Lead"
-    email: "emanzikatunzi@gmail.com"
+    email: "{cipher}147851a8f71d6cd2418c7e8c94de68fe1d8a19c18643ea255b2e99109860440e4bbe7c56cb4e1b74c89a7d6de42ad4e2"
   onCallSupport:
     - (255) 712345665
     - (255) 712345601
