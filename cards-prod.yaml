@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Cards Microservice"
+  contactInfo:
+    name: "Bonus Caesar - Product Owner"
+    email: "bonuscaesar@gmail.com"
+  onCallSupport:
+    - (255) 753345688
+    - (255) 712345643
+

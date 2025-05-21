@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Loan Microservice"
+  contactInfo:
+    name: "Bonus Caesar - Product Owner"
+    email: "bonuscaesar@gmail.com"
+  onCallSupport:
+    - (255) 712345678
+    - (255) 712345679

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "QA Environment"
+  contactInfo:
+    name: "Emanzi Katunzi - QA Lead"
+    email: "emanzikatunzi@gmail.com"
+  onCallSupport:
+    - (255) 712345665
+    - (255) 712345601
