@@ -5,7 +5,7 @@ cards:
   message: "Cards Microservice"
   contactInfo:
     name: "Bonus Caesar - Product Owner"
-    email: "bonuscaesar@gmail.com"
+    email: "{cipher}7ed76b9c41a920a095704146f7fbb70a6e6bc3055d1e653684c5e280323baf8289d44b19d1f5cd8552c567876de41470"
   onCallSupport:
     - (255) 753345688
     - (255) 712345643
