@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Loan Microservice, Prod(WebHooks- HookDecks) API"
+  message: "Loan Microservice, Prod API"
   contactInfo:
     name: "Bonus Caesar - Product Owner"
     email: "{cipher}7ed76b9c41a920a095704146f7fbb70a6e6bc3055d1e653684c5e280323baf8289d44b19d1f5cd8552c567876de41470"
