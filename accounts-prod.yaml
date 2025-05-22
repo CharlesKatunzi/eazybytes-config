@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Accounts Local Related Production APIs"
+  message: "Accounts Local Related Prod APIs"
   contactInfo:
    name: "Bonus Caesar - Product Owner"
    email: "{cipher}e4a2d6c90b815f30d8a38a4b3abbf070741fd45fb4f3d01a9700cd854e56f423ccc2697f26c1790a7092c5e3d9d359e3"
